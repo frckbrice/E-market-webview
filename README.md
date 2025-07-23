@@ -1,6 +1,6 @@
 # Mogou
 
-![home](/assets/images/mougou_4.jpeg)<div style="margin-right: 20px;"></div> ![detail page](/assets/images/mougou_3.jpeg)
+![home](/assets/images/mougou_4.jpeg)   ![detail page](/assets/images/mougou_3.jpeg)
 
 <!-- Adjust pixel value -->
 
