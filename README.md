@@ -2,7 +2,7 @@
 
 ![home](/assets/images/mougou_4.jpeg)
 
-<div style="margin-bottom: 20px;"></div> <!-- Adjust pixel value -->
+<div style="margin-bottom: 100px;"></div> <!-- Adjust pixel value -->
 
 ![detail page](/assets/images/mougou_3.jpeg)
 
