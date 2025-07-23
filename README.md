@@ -7,10 +7,16 @@
 
 **Mogou** is a modern e-market application designed to provide a seamless shopping experience. The app is available for download on the [App Store](https://apps.apple.com/ca/app/) with its location set to Canada.
 
+## Technology Stack
+
+- **Swift**: The primary programming language for iOS development.
+- **SwiftUI**: Used for building the user interface in a declarative way.
+- **Xcode**: The main IDE for developing, testing, and deploying the app.
+
 ## Features
 - User-friendly interface
 - Fast and secure browsing
-- Optimized for Canadian users
+- Optimized for all users
 
 ## Download
 
