@@ -1,8 +1,9 @@
 # Mogou
 
 ![home](/assets/images/mougou_4.jpeg)
-<div style="hight:100px"></div>
 
+###
+###
 ![detail page](/assets/images/mougou_3.jpeg)
 
 ## Overview
