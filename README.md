@@ -1,10 +1,10 @@
 # Mogou
 
-![home](/assets/images/mougou_4.jpeg)
+![home](/assets/images/mougou_4.jpeg)![detail page](/assets/images/mougou_3.jpeg)
 
 <div style="margin-bottom: 100px;"></div> <!-- Adjust pixel value -->
 
-![detail page](/assets/images/mougou_3.jpeg)
+
 
 ## Overview
 
