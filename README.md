@@ -1,7 +1,7 @@
 # Mogou
 
-![Mogou Banner 1](Mogou/assets/images/mougou_4.jpeg)
-![Mogou Banner 2](Mogou/assets/images/mougou_3.jpeg)
+![home](/assets/images/mougou_4.jpeg)
+![detail page](/assets/images/mougou_3.jpeg)
 
 ## Overview
 
